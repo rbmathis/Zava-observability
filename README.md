@@ -1,2 +1,5 @@
 # Zava-observability
-[FlowLens Demo] Monitoring, logging, alerting — Team: Observability, Group: Infrastructure
+
+Monitoring, logging, alerting
+
+Update 1 by James Chen
